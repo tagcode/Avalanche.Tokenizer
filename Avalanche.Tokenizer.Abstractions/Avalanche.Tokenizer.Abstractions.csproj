@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFrameworks>net6.0;net7.0</TargetFrameworks>
+    <Nullable>enable</Nullable>
+    <Authors>Toni Kalajainen</Authors>
+    <Company>Avalanche Information Technology Oy</Company>
+    <Copyright>Toni Kalajainen</Copyright>
+    <Version>0.1.1</Version>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <RootNamespace>Avalanche.Tokenizer</RootNamespace>
+    <Title>Avalanche.Tokenizer</Title>
+    <Description>Abstractions for generic tokenizers that segment strings into tokens.</Description>
+    <RepositoryUrl>https://github.com/tagcode/Avalanche.Tokenizer</RepositoryUrl>
+    <RepositoryType>git</RepositoryType>
+    <GeneratePackageOnBuild>false</GeneratePackageOnBuild>
+    <IncludeSymbols>true</IncludeSymbols>
+    <PackageProjectUrl>http://avalanche.fi/Avalanche.Core/Avalanche.Tokenizer/docs/</PackageProjectUrl>
+    <PackageIcon>..\icon.png</PackageIcon>
+    <PackageTags>avalanche token tokenizer abstractions</PackageTags>
+    <PackageRequireLicenseAcceptance>true</PackageRequireLicenseAcceptance>
+    <PackageLicenseFile>..\LICENSE.txt</PackageLicenseFile>
+    <PackageReadmeFile>README.md</PackageReadmeFile>
+    <NoWarn>CS1591;CS1573</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
+    <DocumentationFile>bin\$(Configuration)\$(TargetFramework)\$(AssemblyName).xml</DocumentationFile>
+  </PropertyGroup>
+  <PropertyGroup>
+    <RestoreAdditionalProjectSources>https://avalanche.fi/Avalanche.Core/nupkg/index.json</RestoreAdditionalProjectSources>
+  </PropertyGroup>
+  <ItemGroup>
+    <None Include="..\.licenseheader" Link=".licenseheader" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Update="README.md">
+      <DependentUpon>README.tt</DependentUpon>
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+    </None>
+  </ItemGroup>
+</Project>

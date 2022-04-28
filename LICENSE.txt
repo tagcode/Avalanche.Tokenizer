@@ -1,0 +1,60 @@
+AVALANCHE LICENSE AGREEMENT 01
+
+By copying, installing or using the Software, you are confirming Your acceptance of the Software and agreeing to become bound by the terms of this Agreement.
+
+1. Evaluation License Grant
+   You may install one copy of the Software, solely for evaluation and testing purposes for evaluation period of two months from first installation. You may not use the Software for commercial purposes.
+
+2. Commercial License Grant
+   Upon confirmed payment of the invoiced Software, you shall receive a receit that grants you following license rights:
+   A) General Use. This Agreement grants you a revocable, non-exclusive, non-transferable, limited license to the use rights for the Software, subject to the terms and conditions in this Agreement. 
+   B) You may modify and compile the Software's source codes, link the Software as binary component to your product provided that copyright notice and this License agreement is included in all copies of the Software.
+   C) You may copy, modify, merge, publish, distribute and sell copies of the Software as binary component of your product.
+   D) Under commercial license grant the Agreement is not time limited. 
+
+3. Restriction of use
+   You may not:
+   A) remove any product identification, proprietary, copyright or other notices contained in the Software;
+   B) use the Software to develop a product which is competitive with any of the Publisher's product offerings; 
+   C) rent, lease, lend, resell, sublicense or transfer license to third parties, except as explicitly permitted in the Agreement;
+   D) use the Software as part of a product or service that provides similar functionality to the Software itself;
+   E) reverse engineer the Sofware or attempt to reconstruct underlying ideas, algorithms or programming interfaces.
+
+4. Ownership. 
+   The Copyright holder will retain all rights to the Software. The Software is licensed, not sold. You acknowledge that you are obtaining only a limited license right to the Software, and that irrespective of any use of the words "purchase", "sale" or like terms hereunder no ownership rights are being conveyed to you under this Agreement or otherwise. 
+
+6. Fees and Payment. 
+   The Software license fees will be due and payable in full as set forth in the applicable invoice or at the time of purchase. Payments are not refundable. The Software can be evaluated under (1.) Evaluation License for a limited time before purchase.
+
+7. Term of Agreement
+   If you fail to comply with any terms and conditions of this Agreement, then this Agreement and any rights afforded to You shall terminate automatically, without any notice or other action by Publisher. Upon termination of this Agreement, you shall cease any and all use of any Software and destroy all copies thereof.
+
+8. Disclaimer of Warranties.
+   The Publisher warrants to you that the Software does not infringe or violate any third party copyright.
+
+   You acknowledge and agree that the Software is provided on an "as is" and is "as available" basis, and that your use of or reliance upon the Software and any third-party content and services accessed thereby is at your sole risk and discretion. The Copyright holder, Publisher and its licensors hereby disclaim all other warranties and guaranties regarding the Software and third-party content and services. 
+
+9. Limitations of Liability
+   In no event shall the Copyright holder or Publisher be liable for any claim, or any special indirect or consequential damages, or any damages whatsoever.
+
+10. Remedies. 
+   Your exclusive remedy and Publisher's entire liability for breach of this Agreement shall be limited, at Publisher's sole and exclusive discretion, to (a) replacement of any defective software or documentation; or (b) refund of the license fee paid to the Publisher, payable in accordance with Publisher's refund policy.
+
+11. Miscellaneous.
+   A) Export Compliance. You agree to comply with all applicable laws, regulations, orders and restrictions on export, re-export or redistribution of the Software.
+   B) Indemnification. You shell indemnify, defend and hold harmless the Copyright holder, the Publisher, its employees, licensors, distributors, and suppliers against any lawsuits, claims, losses, damages, fines and expenses (including attorneys' fees and costs) arising out of your use of the Software or breach of this Agreement.
+   C) Governing Law. These Agreement will be governed under the laws of Finland without regard to conflict of laws, and without regard to the United Nations Convention of Contracts for the International Sale of Goods. The district court of South Ostrobothnia, Finland shall have the exclusive jurisdiction and venue to adjudicate any dispute arising out of these terms.
+   D) Amendment. The Publisher reserves the right to amend this Agreement from time. Amendments can be located at https://avalanche.fi/Avalanche.Core/license/index.html#Amendments
+   E) Severability. If any provision of this Agreement is held by a court of competent jurisdiction to be invalid, illegal, or unenforceable, the remainder of this Agreement will remain in effect.
+   F) Waiver. Failure or neglect by either party to enforce any of the provisions of this Agreement, shall not be construed or deemed to be a waiver of that party's rights under this Agreement.
+   G) Updates. From time to time we may make changes to the Software. Changes are published as new versions of the Software. Updated versions may reduce available features. 
+   H) Version limits. Each license is limited to specific range of versions. Applicable versions are indicated in the license's invoice and receit. 
+   I) Support. You are eligible to participate in Software's issue tracking system.
+   
+12. Definitions
+   A) "Agreement" this license agreement with You and the Publisher. 
+   B) "Software" means any information, document, code or binary that is made available to You under this Agreement. 
+   C) "We" and "Us" means Publisher.
+   D) "Publisher" means licensor and publisher of the Software, Avalanche Information Technology Oy.
+   E) "Copyright holder" means current copyright holder of Software, Toni Kalajainen.
+   F) "You" and "Your": Means entity or person accepting this Agreement to use the Software.
