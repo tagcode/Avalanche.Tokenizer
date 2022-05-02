@@ -6,7 +6,7 @@
     <Authors>Toni Kalajainen</Authors>
     <Company>Avalanche Information Technology Oy</Company>
     <Copyright>Toni Kalajainen</Copyright>
-    <Version>0.1.2</Version>
+    <Version>0.1.3</Version>
     <ImplicitUsings>enable</ImplicitUsings>
     <RootNamespace>Avalanche.Tokenizer</RootNamespace>
     <Title>Avalanche.Tokenizer</Title>
@@ -34,7 +34,7 @@
   </PropertyGroup>
   <ItemGroup>
     <ProjectReference Include="..\Avalanche.Tokenizer.Abstractions\Avalanche.Tokenizer.Abstractions.csproj" />
-    <PackageReference Include="Avalanche.Utilities" Version="0.1.2" />
+    <PackageReference Include="Avalanche.Utilities" Version="0.1.3" />
   </ItemGroup>
   <ItemGroup>
     <None Update="README.md">

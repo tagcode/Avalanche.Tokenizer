@@ -1,4 +1,4 @@
-AVALANCHE LICENSE AGREEMENT 01
+AVALANCHE LICENSE AGREEMENT 02
 
 By copying, installing or using the Software, you are confirming Your acceptance of the Software and agreeing to become bound by the terms of this Agreement.
 
@@ -9,12 +9,14 @@ By copying, installing or using the Software, you are confirming Your acceptance
    Upon confirmed payment of the invoiced Software, you shall receive a receit that grants you following license rights:
    A) General Use. This Agreement grants you a revocable, non-exclusive, non-transferable, limited license to the use rights for the Software, subject to the terms and conditions in this Agreement. 
    B) You may modify and compile the Software's source codes, link the Software as binary component to your product provided that copyright notice and this License agreement is included in all copies of the Software.
-   C) You may copy, modify, merge, publish, distribute and sell copies of the Software as binary component of your product.
-   D) Under commercial license grant the Agreement is not time limited. 
+   C) You may copy, modify, merge, publish, distribute and sell copies of the Software as binary component of your product. 
+   D) End users may run the Software as binary component of Your software.
+   E) You may sub-license the Software to contractors for the purpose of developing your Product.
+   F) Under commercial license grant the Agreement is not time limited. 
 
 3. Restriction of use
    You may not:
-   A) remove any product identification, proprietary, copyright or other notices contained in the Software;
+   A) remove ay product identification, proprietary, copyright or other notices contained in the Software;
    B) use the Software to develop a product which is competitive with any of the Publisher's product offerings; 
    C) rent, lease, lend, resell, sublicense or transfer license to third parties, except as explicitly permitted in the Agreement;
    D) use the Software as part of a product or service that provides similar functionality to the Software itself;
